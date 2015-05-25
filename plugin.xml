@@ -34,7 +34,7 @@
         </config-file>
         
         <source-file src="src/android/ChartboostPlugin.java" target-dir="src/com/portnou/cordova/plugin/chartboost" />
-        <source-file src="libs/chartboost.jar" target-dir="libs" />
+        <lib-file src="libs/chartboost.jar" />
 
     </platform>
 
